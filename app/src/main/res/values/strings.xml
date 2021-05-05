@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week12Permissions</string>
+    <string name="button_permission_text">Get Permission</string>
+    <string name="button_location_permission_text">Get Location</string>
+</resources>
